@@ -1,0 +1,1 @@
+ UPDATE clientes SET cpf = '0465265129' WHERE nome = 'Lucca Santarém Branco';
